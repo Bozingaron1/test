@@ -1,0 +1,43 @@
+body{
+    background-color: darkblue;
+}
+.d1{
+    color: rgb(0, 255, 0);
+}
+.a1{
+    text-align: center;
+    color: white;
+}
+.s1{
+    color: rgb(255, 255, 22);
+}
+.e1{
+    border: 1px solid yellow;    
+}
+table, tr, th, td{
+    text-align: center;
+    color: white;
+    border: 1px solid yellow;
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    width: 33%;
+}
+.q1{
+    width: 1300px;
+    height: 30px;
+}
+.z1{
+    background-color: yellow;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+}
+.g1{
+    text-align: center;
+}
+.v1{
+    text-align: center;
+    color: white;
+}
